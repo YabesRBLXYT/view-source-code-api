@@ -1,8 +1,0 @@
-name = "yabes-kw"
-type = "javascript" # atau "typescript" jika Anda menggunakan TypeScript
-account_id = "b835eee130461e955e41c8c1aba1645f"
-compatibility_date = "2024-11-06" # gunakan tanggal hari ini
-
-[env.production]
-route = "https://yabes-kw.yabeskun.workers.dev/" # ganti dengan domain Anda jika diperlukan
-zone_id = "ID_ZONE_ANDA"
